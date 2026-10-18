@@ -1,0 +1,9 @@
+﻿path: C:/Users/HP/OneDrive/Desktop/AI-Search-Rescue-Rover/dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: fire
+  1: smoke

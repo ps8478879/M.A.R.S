@@ -1,0 +1,18 @@
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.py[cod]
+.env
+
+# React / Node
+node_modules/
+dist/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Training outputs
+runs/
